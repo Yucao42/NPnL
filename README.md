@@ -3,6 +3,6 @@ A non-linear solution to perspective n lines problem, i. e. pose estimation from
 
 ## Description
  
- An initial guess is given from a pose not far away since optimization method needs intialization. 
+ An initial guess is given from a pose not quite far away since optimization method needs intialization. 
  
- Run the code and adjust the parameters of the synthetic lines and poses to see the results.
+ Run the code (TEST.m) and adjust the parameters of the synthetic lines and poses to get the results.
